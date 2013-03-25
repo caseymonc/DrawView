@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrawView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Line">Line</string>
+    <string name="Circle">Circle</string>
+    <string name="Rectangle">Rectangle</string>
+    <string name="X">X</string>
+    <string name="Arrow">Arrow</string>
+    <string name="FreeHand">Free Hand</string>
+	<string name="Red">Red</string>
+	<string name="Yellow">Yellow</string>
+	<string name="Green">Green</string>
+	<string name="Blue">Blue</string>
+	<string name="Black">Black</string>
+	<string name="Clear">Clear</string>
+	<string name="Undo">Undo</string>
+	<string name="Redo">Redo</string>
+</resources>
